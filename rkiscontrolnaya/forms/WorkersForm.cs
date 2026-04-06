@@ -7,10 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using rkiscontrolnaya.forms.add_dell_change;
-using rkiscontrolnaya.Models;
+using ikrgbl.forms.add_dell_change;
+using ikrgbl.Models;
 
-namespace rkiscontrolnaya.forms
+namespace ikrgbl.forms
 {
     public partial class WorkersForm: Form
     {
