@@ -7,8 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using rkiscontrolnaya.Models;
-namespace rkiscontrolnaya.forms
+using ikrgbl.Models;
+namespace ikrgbl.forms
 {
     public partial class GoodsForm: Form
     {
