@@ -7,10 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using rkiscontrolnaya.forms;
-using rkiscontrolnaya.Models;
+using ikrgbl.forms;
+using ikrgbl.Models;
 
-namespace rkiscontrolnaya
+namespace ikrgbl
 {
     public partial class LoginForm: Form
     {
